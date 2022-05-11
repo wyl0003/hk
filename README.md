@@ -14,8 +14,8 @@ https://kdocs.cn/l/cmqB5kYnODzN
 https://kdocs.cn/l/cp7ppdbff6Yw
 
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/qq198812/heroku.git)
-https://dashboard.heroku.com/new?template=https://github.com/qq198812/heroku.git
+[![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wyl0003/hk.git)
+https://dashboard.heroku.com/new?template=https://github.com/wyl0003/hk.git
 
 ### heroku上部署v2ray
 - [x] 支持VMess和VLESS两种协议
